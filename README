@@ -1,0 +1,23 @@
+Lab Assignment 6 README
+========================
+
+Desc:
+Lab 6 creates a linked
+list of unspecified
+objects and datatypes
+to show how to supress
+warnings from the java
+compiler. 
+
+Author:
+Dylan Temple #1609700 
+CMPS-12M-02A
+
+Contents:
+README
+List.java
+Makefile
+ListTest.java
+ListInterface.java
+ListIndexOutOfBoundsException.java
+ListClient.java
